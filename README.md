@@ -3,7 +3,7 @@
 
 <h4>My Frontend Skills:</h4>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,nextjs,git,gitlab,github" alt="Frontend" />
-<hr height=2px>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <h4>My Backend Skills:</h4>
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs,php,py" />
