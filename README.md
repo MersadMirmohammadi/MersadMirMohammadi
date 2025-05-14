@@ -1,5 +1,5 @@
 <img src="./home.jpg" alt="image" width="750px" heigh="350px" alighn="center" />
-#💫 About Me:
+<h2>💫 About Me:</h2>
 <h3>I'm just a tech</h3>
 <p>who loves learning new technology</p>
 
