@@ -1,5 +1,7 @@
 <img src="./home.jpg" alt="image" width="750px" heigh="350px" alighn="center" />
 
+<h3>I'm just a tech</h3>
+<p>who loves learning new technology</p>
 
 <h4>My Frontend Skills:</h4>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,nextjs,git,gitlab,github" alt="Frontend" />
