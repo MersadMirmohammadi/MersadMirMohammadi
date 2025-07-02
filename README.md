@@ -1,6 +1,6 @@
 <img src="./home.jpg" alt="image" align="center" />
 
-<h2>💫 About Me:</h2>
+<h2>About Me:</h2>
 
 <h3>I'm just a tech</h3>
 <p>I love diving into new technologies and learning how things work under the hood.</p>
